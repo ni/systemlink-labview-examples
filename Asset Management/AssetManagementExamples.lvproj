@@ -12,6 +12,8 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="support" Type="Folder">
 			<Item Name="Add Calibration.vi" Type="VI" URL="../Add Calibration.vi"/>
+			<Item Name="Get Assets.vi" Type="VI" URL="../Get Assets.vi"/>
+			<Item Name="Query Asset Utilization.vi" Type="VI" URL="../Query Asset Utilization.vi"/>
 			<Item Name="Query Assets with Filter.vi" Type="VI" URL="../Query Assets with Filter.vi"/>
 		</Item>
 		<Item Name="types" Type="Folder">
@@ -19,6 +21,7 @@
 			<Item Name="Assets.ctl" Type="VI" URL="../Assets.ctl"/>
 			<Item Name="externalCalibration.ctl" Type="VI" URL="../externalCalibration.ctl"/>
 		</Item>
+		<Item Name="Asset Utilization Example.vi" Type="VI" URL="../Asset Utilization Example.vi"/>
 		<Item Name="Update Calibration Example.vi" Type="VI" URL="../Update Calibration Example.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
