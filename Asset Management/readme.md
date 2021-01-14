@@ -6,7 +6,7 @@ Open AssetManagementExamples.lvproj and view the various examples described belo
 
 ## Dependencies
 - [JKI JSON Parser](https://www.vipm.io/package/jki_lib_json_serialization/)
-- LabVIEW SystemLink Toolkit (written with 2020R3)
+- [LabVIEW SystemLink Toolkit](https://www.ni.com/en-us/support/downloads/software-products/download.labview-systemlink-toolkit.html#367351)
 - LabVIEW 2020
 
 ## Examples
